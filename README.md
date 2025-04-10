@@ -8,26 +8,18 @@ To get started with Go, you'll need to have Go installed on your machine. Follow
 
 ## Repository Structure
 
-- **/examples**: Contains example Go programs demonstrating various concepts.
-- **/exercises**: Contains exercises for you to practice and solidify your understanding of Go.
-- **/docs**: Contains additional documentation and resources.
-
-## What You Will Learn
-
 In this repository, you will learn the following concepts of Go:
 
-- **Basic Syntax**: Understanding the basic structure of a Go program.
-- **Data Types**: Exploring various data types such as integers, floats, strings, and booleans.
-- **Variables**: Learning how to declare and use variables.
-- **Control Flow**: Implementing conditional statements (`if`, `else if`, `else`) and switch statements.
-- **Loops**: Using `for` loops, including range loops.
-- **Functions**: Declaring and invoking functions, understanding parameters and return values.
-- **Arrays, Slices, and Maps**: Working with arrays, slices, and maps for data storage and manipulation.
-- **Structs**: Defining and using structs to create custom data types.
-- **Pointers**: Understanding pointers and their usage in Go.
-- **Error Handling**: Handling errors effectively using Go's error handling mechanisms.
-- **Concurrency**: Exploring goroutines and channels for concurrent programming.
-- **Packages**: Understanding and using packages to organize code.
+- **main - Basic Syntax**: Understanding the basic structure of a Go program.
+- **/02 - Variables**: Learning how to declare and use variables.
+- **/03 - Data Types**: Exploring various data types such as integers, floats, strings, and booleans.
+- **/04- Control Flow**: Implementing conditional statements (`if`, `else if`, `else`) and switch statements.
+- **/05 - Loops**: Using `for` loops, including range loops.
+- **/06 - Functions**: Declaring and invoking functions, understanding parameters and return values.
+- **/07 - Data Structures (Arrays, Slices, and Maps) and Struct**: Working with arrays, slices, and maps for data storage and manipulation and Defining and using structs to create custom data types.
+- **/08 - Pointers**: Understanding pointers and their usage in Go.
+- **/09 - Concurrency**: Exploring goroutines and channels for concurrent programming.
+- **/api - Basic API service**: Build a basic CRUD (Create, Read, Update, Delete) API using Go.
 
 If you have any questions or need further assistance, please feel free to reach out via the issues section.
 
